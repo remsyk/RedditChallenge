@@ -1,0 +1,2 @@
+rootProject.name='RedditChallenge'
+include ':app'
